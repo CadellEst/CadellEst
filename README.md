@@ -4,7 +4,7 @@
 Software Engineer
 -----------------
 
-I've been learning to code for two years, looking to change from physically to mentally challenging work. Current favourite framework is Next.js but always open to learning and working with others.
+Frontend devloper of 2 years, always ready for a challenge. Current favourite framework is Next.js but always open to learning and working with others.
 
 *   🌍  I'm based in London
 *   🖥️  See my portfolio at [Portfolio](http://cadellestephane.co.uk)
